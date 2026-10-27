@@ -3,7 +3,12 @@
 </p>
 
 <p align="center">
-  Backend engineer · Java · Spring Boot · PostgreSQL · React · TypeScript
+  <strong>后端开发 · Agent 工程</strong><br>
+  <sub>M.Sc., Ocean University of China (OUC) · 2025</sub>
+</p>
+
+<p align="center">
+  LLM gateway · agent runtime · observability
 </p>
 
 <p align="center">
